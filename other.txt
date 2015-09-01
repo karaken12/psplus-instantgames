@@ -1,0 +1,378 @@
+== Other platforms ==
+{| class="wikitable sortable"
+! style="width:01em;"| 
+! style="width:27em;"| Game
+! style="width:05em;"| Platform
+! style="width:10em;"| Date added
+! style="width:10em;"| Date removed
+! Ref.
+|-
+| 1 
+| ''Age of Zombies'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2010-06-29}}
+| rowspan="3"| {{dts|format=dmy|2010-08-04}}
+| style="text-align:center;" rowspan="3"| <ref name="EUjune10"/>
+|-
+| 2 
+| ''[[Destruction Derby]]'' 
+| PSone
+|-
+| 3 
+| ''[[Fieldrunners]]'' 
+| Minis
+|-
+| 4 
+| ''Alien Zombie Death'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2010-08-04}}
+| rowspan="3"| {{dts|format=dmy|2010-09-01}}
+| style="text-align:center;" rowspan="3"| <ref name="EUaugust10"/>
+|-
+| 5 
+| ''Blast-Off'' 
+| Minis
+|-
+| 6 
+| ''[[MediEvil (1998 video game)|MediEvil]]'' 
+| PSone
+|-
+| 7 
+| ''Echoes'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2010-09-01}}
+| rowspan="3"| {{dts|format=dmy|2010-10-06}}
+| style="text-align:center;" rowspan="3"| <ref name="EUseptember10"/>
+|-
+| 8 
+| ''[[Oddworld: Abe's Oddysee]]'' 
+| PSone
+|-
+| 9 
+| ''Vector TD'' 
+| Minis
+|-
+| 10 
+| ''Aero Racer'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2010-10-06}}
+| rowspan="3"| {{dts|format=dmy|2010-11-03}}
+| style="text-align:center;" rowspan="3"| <ref name="EUoctober10"/>
+|-
+| 11 
+| ''[[Kula World]]'' 
+| PSone
+|-
+| 12 
+| ''[[Yetisports]]'' 
+| Minis
+|-
+| 13 
+| ''[[Bloons]]'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2010-11-03}}
+| rowspan="3"| {{dts|format=dmy|2010-12-01}}
+| style="text-align:center;" rowspan="3"| <ref name="EUnovember10"/>
+|-
+| 14 
+| ''[[Syphon Filter]]'' 
+| PSone
+|-
+| 15 
+| ''Vempire'' 
+| Minis
+|-
+| 16 
+| ''Bubble Trubble'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2010-12-01}}
+| rowspan="3"| {{dts|format=dmy|2011-01-05}}
+| style="text-align:center;" rowspan="3"| <ref name="EUdecember10"/>
+|-
+| 17
+| ''Dracula: Undead Awakening''
+| Minis
+|-
+| 18 
+| ''[[Oddworld: Abe's Exoddus]]'' 
+| PSone
+|-
+| 19 
+| ''[[Samurai Showdown]]'' 
+| Neo Geo 
+| {{dts|format=dmy|2010-12-22}}
+| rowspan="4"| {{dts|format=dmy|2011-02-02}}
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.eu.playstation.com/2010/12/22/the-final-festive-treats-for-playstation-plus-members/ |title=The Final Festive Treats For PlayStation Plus Members |publisher=[[PlayStation Blog]] |date=22 December 2010 |accessdate=11 October 2013}}</ref>
+|-
+| 20 
+| ''[[G-Police]]'' 
+| PSone 
+| rowspan="3"| {{dts|format=dmy|2011-01-05}}
+| style="text-align:center;" rowspan="3"| <ref name="EUjanuary11"/>
+|-
+| 21 
+| ''Kahoots'' 
+| Minis
+|-
+| 22 
+| ''Pipe Madness'' 
+| Minis
+|-
+| 23 
+| ''[[BreakQuest]]'' 
+| Minis 
+| rowspan="4"| {{dts|format=dmy|2011-02-02}}
+| rowspan="5"| {{dts|format=dmy|2011-03-02}}
+| style="text-align:center;" rowspan="4"| <ref name="EUfebruary11"/>
+|-
+| 24 
+| ''I Must Run!'' 
+| Minis
+|-
+| 25 
+| ''Karimogi'' 
+| Minis
+|-
+| 26 
+| ''[[Magician Lord]]'' 
+| Neo Geo
+|-
+| 27 
+| ''Flying Hamster'' 
+| Minis 
+| {{dts|format=dmy|2011-02-14}}
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.eu.playstation.com/2011/02/16/new-playstation-plus-mid-month-treats/ |title=New PlayStation Plus Mid-Month Treats |publisher=[[PlayStation Blog]] |date=16 February 2011 |accessdate=11 October 2013}}</ref>
+|-
+| 28 
+| ''[[Enigmo]]'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2011-03-02}}
+| rowspan="3"| {{dts|format=dmy|2011-04-06}}
+| style="text-align:center;" rowspan="3"| <ref name="EUmarch11"/>
+|-
+| 29 
+| ''[[Guilty Gear (video game)|Guilty Gear]]'' 
+| PSone
+|-
+| 30 
+| ''Pix'n Love Rush'' 
+| Minis
+|-
+| 31 
+| ''Duæl Invaders'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2011-04-06}}
+| rowspan="3"| {{dts|format=dmy|2011-06-15}}
+| style="text-align:center;" rowspan="3"| <ref name="EUapril11"/>
+|-
+| 32 
+| ''Dynogems'' 
+| Minis
+|-
+| 33 
+| ''[[Creatures 3: Raised in Space]]'' 
+| PSone
+|-
+| 34 
+| ''The 2D Adventures of Rotating Octopus Character'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2011-06-02}}
+| rowspan="3"| {{dts|format=dmy|2011-07-06}}
+| style="text-align:center;" rowspan="3"| <ref name="EUjune11"/>
+|-
+| 35 
+| ''Babel: The King of the Blocks'' 
+| Minis
+|-
+| 36 
+| ''[[James Pond 2|James Pond 2: Codename RoboCod]]'' 
+| PSone
+|-
+| 37 
+| ''Dr. Maybe and the Adventures of Scarygirl'' 
+| Minis 
+| rowspan="4"| {{dts|format=dmy|2011-07-06}}
+| rowspan="4"| {{dts|format=dmy|2011-08-03}}
+| style="text-align:center;" rowspan="4"| <ref name="EUjuly11"/>
+|-
+| 38 
+| ''[[JellyCar 2]]'' 
+| Minis
+|-
+| 39 
+| ''[[Legacy of Kain: Soul Reaver]]'' 
+| PSone
+|-
+| 40 
+| ''Me, Monstar! Hear Me Roar'' 
+| Minis
+|-
+| 41 
+| ''Bashi Blocks'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2011-08-03}}
+| rowspan="3"| {{dts|format=dmy|2011-09-07}}
+| style="text-align:center;" rowspan="3"| <ref name="EUaugust11"/>
+|-
+| 42 
+| ''OMG-Z!'' 
+| Minis
+|-
+| 43 
+| ''[[Rayman (video game)|Rayman]]'' 
+| PSone
+|-
+| 44 
+| ''Jelly Pops'' 
+| Minis 
+| rowspan="4"| {{dts|format=dmy|2011-09-07}}
+| rowspan="4"| {{dts|format=dmy|2011-11-02}}
+| style="text-align:center;" rowspan="4"| <ref name="EUseptember11"/>
+|-
+| 45 
+| ''Kaleidoscope'' 
+| Minis
+|-
+| rowspan="2"| 46 
+| ''[[Resident Evil (1996 video game)|Resident Evil: Director's Cut]]'' 
+| PSone
+|-
+| ''[[Street Fighter Alpha 2]]'' <small>(Germany and New Zealand)</small> 
+| PSone
+|-
+| 47 
+| ''[[Crash Bandicoot (video game)|Crash Bandicoot]]'' 
+| PSone 
+| rowspan="6"| {{dts|format=dmy|2011-11-02}}
+| rowspan="6"| {{dts|format=dmy|2011-12-07}}
+| style="text-align:center;" rowspan="6"| <ref name="EUnovember11"/>
+|-
+| 48 
+| ''[[Crash Bandicoot 2: Cortex Strikes Back]]'' 
+| PSone
+|-
+| 49 
+| ''[[Crash Bandicoot: Warped|Crash Bandicoot 3: Warped]]'' 
+| PSone
+|-
+| 50 
+| ''[[Crash Team Racing]]'' 
+| PSone
+|-
+| 51 
+| ''Rumble Trucks'' 
+| Minis
+|-
+| 52 
+| ''[[Where is my Heart?|Where Is My Heart?]]'' 
+| Minis
+|-
+| 53 
+| ''[[Cool Boarders]]'' 
+| PSone 
+| rowspan="3"| {{dts|format=dmy|2011-12-07}}
+| rowspan="3"| {{dts|format=dmy|2012-01-04}}
+| style="text-align:center;" rowspan="3"| <ref name="EUdecember11"/>
+|-
+| 54 
+| ''Orbit'' 
+| Minis
+|-
+| 55 
+| ''Sneezies'' 
+| Minis
+|-
+| 56 
+| ''[[Arc the Lad (video game)|Arc the Lad]]'' 
+| PSone 
+| rowspan="4"| {{dts|format=dmy|2012-01-04}}
+| rowspan="4"| {{dts|format=dmy|2012-02-01}}
+| style="text-align:center;" rowspan="4"|<ref name="EUjanuary12"/>
+|-
+| 57 
+| ''[[Rally Cross]]'' 
+| PSone
+|-
+| 58 
+| ''Stick Man Rescue'' 
+| Minis
+|-
+| 59 
+| ''TrailBlazer'' 
+| Minis
+|-
+| 60 
+| ''[[Farm Frenzy]]'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2012-02-01}}
+| rowspan="3"| {{dts|format=dmy|2012-03-07}}
+| style="text-align:center;" rowspan="3"|<ref name="EUfebruary12"/>
+|-
+| 61 
+| ''[[Final Fantasy V]]'' 
+| PSone
+|-
+| 62 
+| ''Hungry Giraffe'' 
+| Minis
+|-
+| 63 
+| ''[[Farm Frenzy|Farm Frenzy 2]]'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2012-03-07}}
+| rowspan="3"| {{dts|format=dmy|2012-04-04}}
+| style="text-align:center;" rowspan="3"|<ref name="EUmarch12"/>
+|-
+| 64 
+| ''The Impossible Game'' 
+| Minis
+|-
+| 65 
+| ''[[Jet Moto (video game)|Jet Rider]]'' 
+| PSone
+|-
+| 66 
+| ''Floating Cloud God Saves the Pilgrims'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2012-04-04}}
+| rowspan="3"| {{dts|format=dmy|2012-05-02}}
+| style="text-align:center;" rowspan="3"|<ref name="EUapril12"/>
+|-
+| 67 
+| ''Golf Mania'' 
+| Minis
+|-
+| 68 
+| ''[[Silent Hill (video game)|Silent Hill]]'' 
+| PSone
+|-
+| 69 
+| ''LA Gridlock'' 
+| Minis 
+| rowspan="3"| {{dts|format=dmy|2012-05-02}}
+| rowspan="3"| {{dts|format=dmy|2012-06-06}}
+| style="text-align:center;" rowspan="3"|<ref name="EUmay12"/>
+|-
+| 70 
+| ''[[Max Payne]]'' 
+| PS2
+|-
+| 71 
+| ''[[Velocity (video game)|Velocity]]'' 
+| Minis
+|-
+| 72 
+| ''[[Lego Batman: The Videogame]]'' <small>(Australia and Germany)</small> 
+| PSP 
+| {{dts|format=dmy|2012-12-19}}
+| {{dts|format=dmy|2013-01-16}}
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.de.playstation.com/2012/12/19/heads-up-store-update-19-und-21-dezember-2012/ |title=Heads Up – Store Update 19. und 21. Dezember 2012 |publisher=[[PlayStation Blog]] |date=19 December 2012 |accessdate=29 March 2014}}</ref>
+|-
+| 73 
+| ''[[Grand Theft Auto: Liberty City Stories]]'' 
+| PSP 
+| {{dts|format=dmy|2013-11-27}}
+| {{dts|format=dmy|2014-01-29}}
+| style="text-align:center;"| <ref name="EUdecember13"/>
+|-
+|}

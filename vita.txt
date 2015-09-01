@@ -1,0 +1,385 @@
+== PlayStation Vita ==
+{| class="wikitable sortable"
+! style="width:01em;"| 
+! style="width:27em;"| Game
+! style="width:10em;"| Date added
+! style="width:10em;"| Date removed
+! Ref.
+|-
+| 1 
+| ''[[Chronovolt]]'' 
+| rowspan="4"| {{dts|format=dmy|2012-11-21}}
+| {{dts|format=dmy|2012-12-19}}
+| rowspan="4" style="text-align:center;"| <ref name="November12-Vita">{{cite web|url=http://blog.eu.playstation.com/2012/11/13/playstation-plus-for-ps-vita-launch-details-confirmed/ |title=PlayStation Plus for PS Vita: Launch details confirmed |publisher=[[PlayStation Blog]] |date=13 November 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 2 
+| ''[[Tales from Space: Mutant Blobs Attack]]''
+| {{dts|format=dmy|2012-12-21}}
+|-
+| 3 
+| ''[[Gravity Rush]]''
+| rowspan="2"| {{dts|format=dmy|2014-06-11}}
+|-
+| 4 
+| ''[[Uncharted: Golden Abyss]]''
+|-
+| 5 
+| ''Big Sky Infinity'' <small>(cross-buy)</small> 
+| {{dts|format=dmy|2012-12-12}} 
+| {{dts|format=dmy|2012-12-21}}
+| rowspan="3" style="text-align:center;"| <ref name="EUdecember12"/>
+|-
+| 6 
+| ''[[Mortal Kombat (2011 video game)|Mortal Kombat]]'' 
+| {{dts|format=dmy|2012-12-19}}
+| {{dts|format=dmy|2013-01-16}}
+|-
+| 7 
+| ''[[Knytt Underground]]'' <small>(cross-buy)</small> 
+| {{dts|format=dmy|2012-12-21}}
+| {{dts|format=dmy|2013-01-23}}
+|-
+| 8 
+| ''[[Jet Set Radio]]'' 
+| {{dts|format=dmy|2013-01-16}}
+| {{dts|format=dmy|2013-02-13}}
+| rowspan="2" style="text-align:center;"| <ref name="EUjanuary13"/>
+|-
+| 9 
+| ''[[The Pinball Arcade]]'' 
+| {{dts|format=dmy|2013-01-23}}
+| {{dts|format=dmy|2013-02-20}}
+|-
+| 10 
+| ''[[Wipeout 2048]]'' 
+| {{dts|format=dmy|2013-02-13}}
+| {{dts|format=dmy|2013-03-13}}
+| rowspan="2" style="text-align:center;"| <ref name="EUfebruary13"/>
+|-
+| 11 
+| ''[[Lumines Electronic Symphony]]'' 
+| {{dts|format=dmy|2013-02-20}}
+| {{dts|format=dmy|2013-03-20}}
+|-
+| 12 
+| ''[[Metal Gear Solid HD Collection]]'' 
+| {{dts|format=dmy|2013-03-13}}
+| {{dts|format=dmy|2013-04-10}}
+| rowspan="2" style="text-align:center;"| <ref name="EUmarch13"/>
+|-
+| 13 
+| ''[[Puddle (video game)|Puddle]]'' 
+| {{dts|format=dmy|2013-03-20}}
+| {{dts|format=dmy|2013-04-24}}
+|-
+| 14 
+| ''[[Zero Escape: Virtue's Last Reward]]'' 
+| {{dts|format=dmy|2013-04-10}} 
+| {{dts|format=dmy|2013-05-08}}
+| rowspan="2" style="text-align:center;"| <ref name="EUapril13"/>
+|-
+| 15 
+| ''[[Thomas Was Alone]]'' <small>(cross-buy)</small> 
+| {{dts|format=dmy|2013-04-24}}
+| {{dts|format=dmy|2013-05-22}}
+|-
+| 16 
+| ''[[Sine Mora]]'' 
+| {{dts|format=dmy|2013-05-08}}
+| {{dts|format=dmy|2013-06-05}}
+| rowspan="2" style="text-align:center;"| <ref name="EUmay13"/>
+|-
+| 17 
+| ''[[Velocity (video game)|Velocity Ultra]]'' 
+| {{dts|format=dmy|2013-05-15}}
+| {{dts|format=dmy|2013-06-12}}
+|-
+| 18 
+| ''Coconut Dodge: Revitalised'' 
+| rowspan="2"| {{dts|format=dmy|2013-06-05}} 
+| rowspan="2"| {{dts|format=dmy|2013-07-03}}
+| rowspan="2" style="text-align:center;"| <ref name="EUjune13"/>
+|-
+| 19 
+| ''[[Rayman Origins]]''
+|-
+| 20 
+| ''[[Ninja Gaiden Sigma|Ninja Gaiden Sigma Plus]]'' 
+| rowspan="2"| {{dts|format=dmy|2013-07-03}}
+| rowspan="2"| {{dts|format=dmy|2013-07-31}}
+| rowspan="2" style="text-align:center;"| <ref name="EUjuly13"/>
+|-
+| 21 
+| ''[[Unit 13]]''
+|-
+| 22 
+| ''[[Lego The Lord of the Rings (video game)|Lego The Lord of the Rings]]'' 
+| rowspan="2"| {{dts|format=dmy|2013-07-31}}
+| rowspan="2"| {{dts|format=dmy|2013-08-28}}
+| rowspan="2" style="text-align:center;"| <ref name="EUaugust13"/>
+|-
+| 23 
+| ''[[When Vikings Attack!]]'' <small>(cross-buy)</small>
+|-
+| 24
+| ''[[Little King's Story|New Little King's Story]]''
+| rowspan="4"| {{dts|format=dmy|2013-08-28}} 
+| rowspan="2"| {{dts|format=dmy|2013-09-25}}
+| rowspan="4" style="text-align:center;"| <ref name="EUseptember13"/>
+|-
+| 25
+| ''Urban Trial Freestyle''
+|-
+| 26
+| ''[[Jak and Daxter Collection|The Jak and Daxter Trilogy]]'' <small>(cross-buy)</small> 
+| rowspan="2"| {{dts|format=dmy|2013-11-27}}
+|-
+| 27
+| ''[[Stealth Bastard Deluxe|Stealth Inc: A Clone in the Dark]]'' <small>(cross-buy)</small>
+|-
+| 28 
+| ''[[Street Fighter X Tekken]]'' 
+| rowspan="2"| {{dts|format=dmy|2013-09-25}}
+| rowspan="2"| {{dts|format=dmy|2013-10-23}}
+| rowspan="2" style="text-align:center;"| <ref name="EUoctober13"/>
+|-
+| 29 
+| ''[[Touch My Katamari]]''
+|-
+| 30 
+| ''[[MotorStorm: RC|MotorStorm RC]]'' <small>(cross-buy)</small> 
+| rowspan="2"| {{dts|format=dmy|2013-10-23}}
+| rowspan="2"| {{dts|format=dmy|2013-11-27}}
+| rowspan="2" style="text-align:center;"| <ref name="EUnovember13"/>
+|-
+| 31 
+| ''[[Oddworld: Stranger's Wrath|Oddworld: Stranger's Wrath HD]]''
+|-
+| 32
+| ''[[Sonic & All-Stars Racing Transformed]]''
+| rowspan="2"| {{dts|format=dmy|2013-11-27}}
+| {{dts|format=dmy|2013-12-24}}
+| rowspan="2" style="text-align:center;"| <ref name="EUdecember13"/>
+|-
+| 33
+| ''[[Guacamelee!]]'' <small>(cross-buy)</small> 
+| {{dts|format=dmy|2014-03-05}}
+|-
+| 34
+| ''[[BlazBlue: Continuum Shift|BlazBlue: Continuum Shift Extend]]''
+| rowspan="2"| {{dts|format=dmy|2013-12-24}}
+| rowspan="2"| {{dts|format=dmy|2014-01-29}}
+| rowspan="2" style="text-align:center;"| <ref name="January14"/>
+|-
+| 35
+| ''[[Soul Sacrifice (video game)|Soul Sacrifice]]''
+|-
+| 36
+| ''[[Dynasty Warriors Next]]''
+| rowspan="2"| {{dts|format=dmy|2014-01-29}}
+| rowspan="2"| {{dts|format=dmy|2014-03-05}}
+| rowspan="2" style="text-align:center;"| <ref name="February14"/>
+|-
+| 37
+| ''[[ModNation Racers: Road Trip]]''
+|-
+| 38
+| ''[[PixelJunk Monsters|PixelJunk Monsters: Ultimate HD]]''
+| rowspan="2"| {{dts|format=dmy|2014-03-05}}
+| rowspan="2"| {{dts|format=dmy|2014-04-02}}
+| rowspan="2" style="text-align:center;"| <ref name="March14"/>
+|-
+| 39
+| ''[[Smart As|Smart As...]]''
+|-
+| 40
+| ''[[Hotline Miami]]'' <small>(cross-buy)</small> 
+| rowspan="3"| {{dts|format=dmy|2014-04-02}}
+| rowspan="2"| {{dts|format=dmy|2014-04-30}}
+| rowspan="3" style="text-align:center;"| <ref name="April14"/>
+|-
+| 41
+| ''[[MotoGP 13]]''
+|-
+| 42
+| ''[[Sly Cooper: Thieves in Time]]'' <small>(cross-buy)</small>
+| {{dts|format=dmy|2014-07-02}}
+|-
+| 43
+| ''[[Muramasa: The Demon Blade|Muramasa Rebirth]]''
+| rowspan="2"| {{dts|format=dmy|2014-04-30}}
+| rowspan="2"| {{dts|format=dmy|2014-06-04}}
+| rowspan="2" style="text-align:center;"| <ref name="May14"/>
+|-
+| 44
+| ''[[Everybody's Golf 6|Everybody's Golf]]''
+|-
+| 45
+| ''[[Dragon's Crown]]''
+| rowspan="4"| {{dts|format=dmy|2014-06-04}}
+| rowspan="4"| {{dts|format=dmy|2014-07-02}}
+| rowspan="4" style="text-align:center;"| <ref name="June14"/>
+|-
+| 46
+| ''[[Lone Survivor (video game)|Lone Survivor: The Director's Cut]]'' <small>(cross-buy)</small>
+|-
+| 47
+| ''[[PixelJunk Shooter|PixelJunk Shooter: Ultimate]]'' <small>(cross-buy)</small>
+|-
+| 48
+| ''Surge Deluxe''
+|-
+| 49
+| ''[[Doki-Doki Universe]]'' <small>(cross-buy)</small>
+| rowspan="2"| {{dts|format=dmy|2014-07-02}}
+| rowspan="2"| {{dts|format=dmy|2014-08-06}}
+| rowspan="2" style="text-align:center;"| <ref name="July14"/>
+|-
+| 50
+| ''[[Lego Batman 2: DC Super Heroes]]''
+|-
+| 51
+| ''[[Fez (video game)|Fez]]'' <small>(cross-buy)</small>
+| rowspan="4"| {{dts|format=dmy|2014-08-06}}
+| rowspan="4"| {{dts|format=dmy|2014-09-03}}
+| rowspan="4" style="text-align:center;"| <ref name="August14"/>
+|-
+| 52
+| ''[[Lego Harry Potter: Years 5–7]]''
+|-
+| 53
+| ''[[Metrico]]''
+|-
+| 54
+| ''[[Proteus (video game)|Proteus]]'' <small>(cross-buy)</small>
+|-
+| 55
+| ''[[Joe Danger]]''
+| rowspan="4"| {{dts|format=dmy|2014-09-03}}
+| rowspan="4"| {{dts|format=dmy|2014-10-08}}
+| rowspan="4" style="text-align:center;"| <ref name="September14"/>
+|-
+| 56
+| ''[[PlayStation All-Stars Battle Royale]]'' <small>(cross-buy)</small>
+|-
+| 57
+| ''[[TxK]]''
+|-
+| 58
+| ''[[Velocity (video game)|Velocity 2X]]'' <small>(cross-buy)</small>
+|-
+| 59
+| ''Pix the Cat'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2014-10-08}}
+| rowspan="3"| {{dts|format=dmy|2014-11-05}}
+| rowspan="3" style="text-align:center;"| <ref name="October14"/>
+|-
+| 60
+| ''[[Rainbow Moon]]'' <small>(cross-buy)</small>
+|-
+| 61
+| ''[[Spelunky]]'' <small>(cross-buy)</small>
+|-
+| 62
+| ''[[Escape Plan (video game)|Escape Plan]]'' <small>(cross-buy)</small>
+| rowspan="5"| {{dts|format=dmy|2014-11-05}}
+| rowspan="5"| {{dts|format=dmy|2014-12-03}}
+| rowspan="5" style="text-align:center;"| <ref name="November14"/>
+|-
+| 63
+| ''[[Luftrausers]]'' <small>(cross-buy)</small>
+|-
+| 64
+| ''[[SteamWorld Dig]]'' <small>(cross-buy)</small>
+|-
+| 65
+| ''[[The Binding of Isaac: Rebirth]]'' <small>(cross-buy)</small>
+|-
+| 66
+| ''The Hungry Horde''
+|-
+| 67
+| ''Final Horizon''
+| rowspan="2"| {{dts|format=dmy|2014-12-03}}
+| rowspan="2"| {{dts|format=dmy|2015-01-07}}
+| rowspan="2" style="text-align:center;"| <ref name="December14"/>
+|-
+| 68
+| ''Titan Attacks'' <small>(cross-buy)</small>
+|-
+| rowspan="2"| 69
+| ''[[Duke Nukem 3D|Duke Nukem 3D: Megaton Edition]]'' <small>(cross-buy)</small>
+| rowspan="4"| {{dts|format=dmy|2015-01-07}}
+| rowspan="4"| {{dts|format=dmy|2015-02-04}}
+| rowspan="4" style="text-align:center;"| <ref name="January15"/>
+|-
+| ''[[Gravity Crash|Gravity Crash Ultra]]'' <small>(Germany, Russia and New Zealand)</small>
+|-
+| 70
+| ''[[The Swapper]]'' <small>(cross-buy)</small>
+|-
+| 71
+| ''[[Woah Dave!]]''
+|-
+| 72
+| ''[[Kick & Fennick]]''
+| rowspan="2"| {{dts|format=dmy|2015-02-04}}
+| rowspan="2"| {{dts|format=dmy|2015-03-04}}
+| rowspan="2" style="text-align:center;"| <ref name="February15"/>
+|-
+| 73
+| ''[[Rogue Legacy]]'' <small>(cross-buy)</small>
+|-
+| 74
+| ''[[CounterSpy (video game)|CounterSpy]]'' <small>(cross-buy)</small>
+| rowspan="2"| {{dts|format=dmy|2015-03-04}}
+| rowspan="2"| {{dts|format=dmy|2015-04-08}}
+| rowspan="2" style="text-align:center;"| <ref name="March15"/>
+|-
+| 75
+| ''[[OlliOlli2: Welcome to Olliwood]]'' <small>(cross-buy)</small>
+|-
+| 76
+| ''[[Killzone: Mercenary]]''
+| rowspan="2"| {{dts|format=dmy|2015-04-08}}
+| rowspan="2"| {{dts|format=dmy|2015-05-06}}
+| rowspan="2" style="text-align:center;"| <ref name="April15"/>
+|-
+| 77
+| ''MonsterBag''
+|-
+| 78
+| ''[[The Unfinished Swan]]''<small>(cross-buy)</small>
+| rowspan="4"| {{dts|format=dmy|2015-05-06}}
+| rowspan="4"| {{dts|format=dmy|2015-06-03}}
+| rowspan="4" style="text-align:center;"| <ref name="May15"/>
+|-
+| 79
+| ''[[Race the Sun (video game)|Race the Sun]]'' <small>(cross-buy)</small>
+|-
+| 80
+| ''[[Murasaki Baby]]''
+|-
+| 81
+| ''[[Hohokum]]'' <small>(cross-buy)</small>
+|-
+| 82
+| ''Super Exploding Zoo'' <small>(cross-buy)</small>
+| rowspan="2"| {{dts|format=dmy|2015-06-03}}
+| rowspan="2"| {{dts|format=dmy|2015-07-07}}
+| rowspan="2" style="text-align:center;"| <ref name="May27"/>
+|-
+| 83
+| ''[[Futuridium EP Deluxe]]'' <small>(cross-buy)</small>
+|-
+| 84
+| ''[[Geometry Wars 3: Dimensions|Geometry Wars 3: Dimensions Evolved]]''
+| rowspan="3"| {{dts|format=dmy|2015-07-07}}
+| rowspan="3"| {{dts|format=dmy|2015-08-04}}
+| rowspan="3" style="text-align:center;"| <ref name="July15"/>
+|-
+| 85
+| ''[[Entwined (video game)|Entwined]]'' <small>(cross-buy)</small>
+|-
+| 86
+| ''Mousecraft'' <small>(cross-buy)</small>

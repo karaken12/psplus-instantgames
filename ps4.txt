@@ -1,0 +1,220 @@
+== PlayStation 4 ==
+{| class="wikitable sortable"
+|-
+! style="width:01em;"| 
+! style="width:27em;"| Game
+! style="width:10em;"| Date added
+! style="width:10em;"| Date removed
+! Ref.
+|-
+| 1 
+| ''[[Contrast (video game)|Contrast]]'' 
+| rowspan="2"| {{dts|format=dmy|2013-11-29}} 
+| {{dts|format=dmy|2014-01-08}}
+| rowspan="2" style="text-align:center;"| <ref name="EUdecember13"/>
+|-
+| 2 
+| ''[[Resogun]]''
+| rowspan="2"| {{dts|format=dmy|2014-02-05}}
+|-
+| 3
+| ''[[Don't Starve]]''
+| {{dts|format=dmy|2014-01-08}}
+| style="text-align:center;"| <ref name="January14"/>
+|-
+| rowspan="2"| 4
+| ''[[Outlast]]''
+| rowspan="2"| {{dts|format=dmy|2014-02-05}}
+| rowspan="2"| {{dts|format=dmy|2014-03-05}}
+| rowspan="2" style="text-align:center;"| <ref name="February14"/>
+|-
+| ''[[Sound Shapes]]'' <small>(Saudi Arabia, Qatar, Kuwait, UAE, India and Turkey)</small>
+|-
+| 5
+| ''[[Dead Nation|Dead Nation: Apocalypse Edition]]''
+| {{dts|format=dmy|2014-03-05}}
+| {{dts|format=dmy|2014-04-02}}
+| style="text-align:center;"| <ref name="March14"/>
+|-
+| 6
+| ''[[Mercenary Kings]]''
+| {{dts|format=dmy|2014-04-02}}
+| {{dts|format=dmy|2014-04-30}}
+| style="text-align:center;"| <ref name="April14"/>
+|-
+| 7
+| ''Stick It to the Man!''
+| {{dts|format=dmy|2014-04-30}}
+| {{dts|format=dmy|2014-06-04}}
+| style="text-align:center;"| <ref name="May14"/>
+|-
+| 8
+| ''[[PixelJunk Shooter|PixelJunk Shooter: Ultimate]]'' <small>(cross-buy)</small>
+| rowspan="2"| {{dts|format=dmy|2014-06-04}}
+| rowspan="2"| {{dts|format=dmy|2014-07-02}}
+| rowspan="2" style="text-align:center;"| <ref name="June14"/>
+|-
+| 9
+| ''[[Trine 2|Trine 2: Complete Story]]''
+|-
+| 10
+| ''[[Doki-Doki Universe]]'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2014-07-02}}
+| rowspan="3"| {{dts|format=dmy|2014-08-06}}
+| rowspan="3" style="text-align:center;"| <ref name="July14"/>
+|-
+| 11
+| ''[[Strider (2014 video game)|Strider]]''
+|-
+| 12
+| ''[[TowerFall|TowerFall: Ascension]]''
+|-
+| 13
+| ''[[Fez (video game)|Fez]]'' <small>(cross-buy)</small>
+| rowspan="2"| {{dts|format=dmy|2014-08-06}}
+| rowspan="2"| {{dts|format=dmy|2014-09-03}}
+| rowspan="2" style="text-align:center;"| <ref name="August14"/>
+|-
+| 14
+| ''Road Not Taken''
+|-
+| 15
+| ''[[Sportsfriends]]'' <small>(cross-buy)</small>
+| rowspan="2"| {{dts|format=dmy|2014-09-03}}
+| rowspan="2"| {{dts|format=dmy|2014-10-08}}
+| rowspan="2" style="text-align:center;"| <ref name="September14"/>
+|-
+| 16
+| ''[[Velocity (video game)|Velocity 2X]]'' <small>(cross-buy)</small>
+|-
+| 17
+| ''[[Dust: An Elysian Tail]]''
+| rowspan="3"| {{dts|format=dmy|2014-10-08}}
+| rowspan="3"| {{dts|format=dmy|2014-11-05}}
+| rowspan="3" style="text-align:center;"| <ref name="October14"/>
+|-
+| 18
+| ''Pix the Cat'' <small>(cross-buy)</small>
+|-
+| 19
+| ''[[Spelunky]]'' <small>(cross-buy)</small>
+|-
+| 20
+| ''[[Escape Plan (video game)|Escape Plan]]'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2014-11-05}}
+| rowspan="3"| {{dts|format=dmy|2014-12-03}}
+| rowspan="3" style="text-align:center;"| <ref name="November14"/>
+|-
+| 21
+| ''[[SteamWorld Dig]]'' <small>(cross-buy)</small>
+|-
+| 22
+| ''[[The Binding of Isaac: Rebirth]]'' <small>(cross-buy)</small>
+|-
+| 23
+| ''[[Injustice: Gods Among Us|Injustice: Gods Among Us – Ultimate Edition]]''
+| rowspan="3"| {{dts|format=dmy|2014-12-03}}
+| rowspan="3"| {{dts|format=dmy|2015-01-07}}
+| rowspan="3" style="text-align:center;"| <ref name="December14"/>
+|-
+| 24
+| ''[[Secret Ponchos]]''
+|-
+| 25
+| ''Titan Attacks'' <small>(cross-buy)</small>
+|-
+| 26
+| ''[[Infamous First Light|InFamous: First Light]]''
+| rowspan="2"| {{dts|format=dmy|2015-01-07}}
+| rowspan="2"| {{dts|format=dmy|2015-02-04}}
+| rowspan="2" style="text-align:center;"| <ref name="January15"/>
+|-
+| 27
+| ''[[The Swapper]]'' <small>(cross-buy)</small>
+|-
+| 28
+| ''[[Apotheon]]''
+| rowspan="3"| {{dts|format=dmy|2015-02-04}}
+| rowspan="3"| {{dts|format=dmy|2015-03-04}}
+| rowspan="3" style="text-align:center;"| <ref name="February15"/>
+|-
+| 29
+| ''[[Rogue Legacy]]'' <small>(cross-buy)</small>
+|-
+| 30
+| ''[[Transistor (video game)|Transistor]]''
+|-
+| 31
+| ''[[CounterSpy (video game)|CounterSpy]]'' <small>(cross-buy)</small>
+| rowspan="4"| {{dts|format=dmy|2015-03-04}}
+| rowspan="4"| {{dts|format=dmy|2015-04-08}}
+| rowspan="4" style="text-align:center;"| <ref name="March15"/>
+|-
+| 32
+| ''[[Oddworld: New 'n' Tasty!]]''
+|-
+| 33
+| ''[[OlliOlli2: Welcome to Olliwood]]'' <small>(cross-buy)</small>
+|-
+| 34
+| ''[[Valiant Hearts: The Great War]]''
+|-
+| 35
+| ''Aaru's Awakening'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2015-04-08}}
+| rowspan="3"| {{dts|format=dmy|2015-05-06}}
+| rowspan="3" style="text-align:center;"| <ref name="April15"/>
+|-
+| 36
+| ''[[Never Alone (video game)|Never Alone]]''
+|-
+| 37
+| ''[[Tower of Guns]]'' <small>(cross-buy)</small>
+|-
+| 38
+| ''[[Ether One]]''
+| rowspan="5"| {{dts|format=dmy|2015-05-06}}
+| rowspan="5"| {{dts|format=dmy|2015-06-03}}
+| rowspan="5" style="text-align:center;"| <ref name="May15"/>
+|-
+| 39
+| ''[[Guacamelee!|Guacamelee! Super Turbo Championship Edition]]''
+|-
+| 40
+| ''[[The Unfinished Swan]]'' <small>(cross-buy)</small>
+|-
+| 41
+| ''[[Race the Sun (video game)|Race the Sun]]'' <small>(cross-buy)</small>
+|-
+| 42
+| ''[[Hohokum]]'' <small>(cross-buy)</small>
+|-
+| 43
+| ''[[Metal Gear Solid V: Ground Zeroes]]''
+| rowspan="4"| {{dts|format=dmy|2015-06-03}}
+| rowspan="4"| {{dts|format=dmy|2015-07-07}}
+| rowspan="4" align=center| <ref name="May27"/>
+|-
+| 44
+| ''[[Skulls of the Shogun|Skulls of the Shogun: Bone-A-Fide Edition]]''
+|-
+| 45
+| ''Super Exploding Zoo'' <small>(cross-buy)</small>
+|-
+| 46
+| ''[[Futuridium EP Deluxe]]'' <small>(cross-buy)</small>
+|-
+| 47
+| ''Mousecraft'' <small>(cross-buy)</small>
+| rowspan="4"| {{dts|format=dmy|2015-07-07}}
+| rowspan="4"| {{dts|format=dmy|2015-08-04}}
+| rowspan="4" align=center| <ref name="July15"/>
+|-
+| 48
+| ''[[Entwined (video game)|Entwined]]'' <small>(cross-buy)</small>
+|-
+| 49
+| ''[[Rocket League]]''
+|-
+| 50
+| ''[[Styx: Master of Shadows]]''

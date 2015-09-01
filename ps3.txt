@@ -1,0 +1,769 @@
+== PlayStation 3 ==
+{| class="wikitable sortable"
+! style="width:01em;"| 
+! style="width:27em;"| Game
+! style="width:10em;"| Date added
+! style="width:10em;"| Date removed
+! Ref.
+|-
+| 1 
+| ''[[Wipeout HD]]'' 
+| {{dts|format=dmy|2010-06-29}} 
+| {{dts|format=dmy|2010-08-04}}
+| style="text-align:center;"| <ref name="EUjune10">{{cite web|url=http://blog.eu.playstation.com/2010/06/23/playstation-plus-explained/ |title=Prices and Content, PlayStation Plus Explained |publisher=[[PlayStation Blog]] |date=23 June 2010 |accessdate=11 October 2013}}</ref>
+|-
+| 2 
+| ''[[Zen Pinball]]'' 
+| {{dts|format=dmy|2010-08-04}}
+| {{dts|format=dmy|2010-09-01}}
+| style="text-align:center;"| <ref name="EUaugust10">{{cite web|url=http://blog.eu.playstation.com/2010/08/03/playstation-plus-content-for-august-and-september/ |title=PlayStation Plus Content For August And September |publisher=[[PlayStation Blog]] |date=3 August 2010 |accessdate=11 October 2013}}</ref>
+|-
+| 3 
+| ''[[Sam & Max: The Devil's Playhouse]]'' <small>(episodes 1–5)</small> 
+| {{dts|format=dmy|2010-09-01}}
+| {{dts|format=dmy|2010-10-06}}
+| style="text-align:center;"| <ref name="EUseptember10">{{cite web|url=http://blog.eu.playstation.com/2010/09/01/new-playstation-plus-sign-up-offer-and-content-for-september-and-october/ |title=New PlayStation Plus Sign Up OFFER And Content For September And October |publisher=[[PlayStation Blog]] |date=1 September 2010 |accessdate=11 October 2013}}</ref>
+|-
+| 4 
+| ''[[Super Street Fighter II Turbo HD Remix]]'' 
+| {{dts|format=dmy|2010-10-06}}
+| {{dts|format=dmy|2010-11-03}}
+| style="text-align:center;"| <ref name="EUoctober10">{{cite web|url=http://blog.eu.playstation.com/2010/10/06/new-playstation-plus-content-for-october-and-november-and-free-90-day-subscription-for-new-subscribers/ |title=New PlayStation Plus Content For October And November And Free 90 Day Subscription For New Subscribers |publisher=[[PlayStation Blog]] |date=6 October 2010 |accessdate=11 October 2013}}</ref>
+|-
+| 5 
+| ''[[Critter Crunch]]'' 
+| {{dts|format=dmy|2010-11-03}}
+| {{dts|format=dmy|2010-12-01}}
+| style="text-align:center;"| <ref name="EUnovember10">{{cite web|url=http://blog.eu.playstation.com/2010/11/03/new-playstation-plus-content-for-november-and-december/ |title=New PlayStation Plus Content For November And December |publisher=[[PlayStation Blog]] |date=3 November 2010 |accessdate=11 October 2013}}</ref>
+|-
+| 6 
+| ''[[Cuboid (video game)|Cuboid]]'' 
+| {{dts|format=dmy|2010-12-01}} 
+| {{dts|format=dmy|2011-01-05}}
+| style="text-align:center;"| <ref name="EUdecember10">{{cite web|url=http://blog.eu.playstation.com/2010/12/01/new-playstation-plus-content-for-november-and-december-2/ |title=New PlayStation Plus Content For December And January |publisher=[[PlayStation Blog]] |date=1 December 2010 |accessdate=11 October 2013}}</ref>
+|-
+| 7 
+| ''[[LittleBigPlanet 2#Sackboy's Prehistoric Moves|Sackboy's Prehistoric Moves]]'' 
+| {{dts|format=dmy|2010-12-08}} 
+| {{dts|format=dmy|2010-12-15}}
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.eu.playstation.com/2010/12/07/the-first-of-many-december-treats-for-plus-members/ |title=The First Of Many December Treats For Plus Members |publisher=[[PlayStation Blog]] |date=7 December 2010 |accessdate=11 October 2013}}</ref>
+|-
+| 8 
+| ''[[Shatter (video game)|Shatter]]'' 
+| {{dts|format=dmy|2011-01-05}} 
+| {{dts|format=dmy|2011-02-02}}
+| style="text-align:center;"| <ref name="EUjanuary11">{{cite web|url=http://blog.eu.playstation.com/2011/01/05/new-playstation-plus-content-for-january-and-february-2011/ |title=New PlayStation Plus Content For January And February 2011 |publisher=[[PlayStation Blog]] |date=5 January 2011 |accessdate=11 October 2013}}</ref>
+|-
+| 9 
+| ''[[Lead and Gold: Gangs of the Wild West]]'' 
+| {{dts|format=dmy|2011-02-02}} 
+| {{dts|format=dmy|2011-03-02}}
+| style="text-align:center;"| <ref name="EUfebruary11">{{cite web|url=http://blog.eu.playstation.com/2011/02/02/new-playstation-plus-content-for-february-march-2011/ |title=New PlayStation Plus Content For February & March 2011 |publisher=[[PlayStation Blog]] |date=2 February 2011 |accessdate=11 October 2013}}</ref>
+|-
+| 10 
+| ''[[Astro Tripper]]'' 
+| rowspan="2"| {{dts|format=dmy|2011-03-02}} 
+| rowspan="2"| {{dts|format=dmy|2011-04-06}}
+| style="text-align:center;" rowspan="2"| <ref name="EUmarch11">{{cite web|url=http://blog.eu.playstation.com/2011/03/02/new-playstation-plus-content-for-march-april-2011/ |title=New PlayStation Plus Content For March & April 2011 |publisher=[[PlayStation Blog]] |date=2 March 2011 |accessdate=11 October 2013}}</ref>
+|-
+| 11 
+| ''[[Sonic the Hedgehog (1991 video game)|Sonic the Hedgehog]]''
+|-
+| 12 
+| ''[[Prince of Persia (1989 video game)|Prince of Persia Classic]]'' 
+| rowspan="3"| {{dts|format=dmy|2011-04-06}}
+| rowspan="4"| {{dts|format=dmy|2011-06-15}}
+| style="text-align:center;" rowspan="3"| <ref name="EUapril11">{{cite web|url=http://blog.eu.playstation.com/2011/04/06/the-biggest-playstation-plus-month-yet/ |title=The Biggest PlayStation Plus Month Yet |publisher=[[PlayStation Blog]] |date=6 April 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 13 
+| ''[[Red Faction: Battlegrounds]]''
+|-
+| 14 
+| ''[[Sonic the Hedgehog 2 (16-bit)|Sonic the Hedgehog 2]]''
+|-
+| 15 
+| ''[[Pain (video game)|Pain]]'' 
+| {{dts|format=dmy|2011-04-20}} 
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.eu.playstation.com/2011/04/20/playstation-plus-mid-month-update/ |title=PlayStation Plus Mid-Month Update |publisher=[[PlayStation Blog]] |date=20 April 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 16 
+| ''[[Burnout Paradise]]'' 
+| rowspan="3"| {{dts|format=dmy|2011-06-02}}
+| rowspan="3"| {{dts|format=dmy|2011-07-06}}
+| style="text-align:center;" rowspan="3"| <ref name="EUjune11">{{cite web|url=http://blog.eu.playstation.com/2011/06/02/welcome-back-to-playstation-plus/ |title=Welcome Back To PlayStation Plus |publisher=[[PlayStation Blog]] |date=2 June 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 17 
+| ''[[Magic: The Gathering – Duels of the Planeswalkers]]''
+|-
+| 18 
+| ''[[Streets of Rage 2]]''
+|-
+| 19 
+| ''[[Golden Axe]]'' 
+| rowspan="2"| {{dts|format=dmy|2011-07-06}}
+| rowspan="4"| {{dts|format=dmy|2011-08-03}}
+| style="text-align:center;" rowspan="2"| <ref name="EUjuly11">{{cite web|url=http://blog.eu.playstation.com/2011/07/06/playstation-plus-1st-anniversary-content-competition-and-cake/ |title=PlayStation Plus 1st Anniversary: Content, Competition And Cake |publisher=[[PlayStation Blog]] |date=6 July 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 20 
+| ''[[Supersonic Acrobatic Rocket-Powered Battle-Cars]]''
+|-
+| 21 
+| ''[[Castle Crashers]]'' 
+| {{dts|format=dmy|2011-07-13}}
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.eu.playstation.com/2011/07/13/playstation-plus-1st-anniversary-treat-and-welcome-back-problem-fixed/ |title=PlayStation Plus 1st Anniversary Treat And Welcome Back Problem Fixed |publisher=[[PlayStation Blog]] |date=13 July 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 22 
+| ''[[Comet Crash]]'' 
+| {{dts|format=dmy|2011-07-26}} 
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.eu.playstation.com/2011/07/26/playstation-plus-more-anniversary-month-treats/ |title=PlayStation Plus: More Anniversary Month Treats |publisher=[[PlayStation Blog]] |date=26 July 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 23 
+| ''[[Comix Zone]]'' 
+| rowspan="2"| {{dts|format=dmy|2011-08-03}}
+| rowspan="2"| {{dts|format=dmy|2011-09-07}}
+| style="text-align:center;" rowspan="2"| <ref name="EUaugust11">{{cite web|url=http://blog.eu.playstation.com/2011/08/02/playstation-plus-content-3rd-august-7th-september/ |title=PlayStation Plus Content 3rd August – 7th September |publisher=[[PlayStation Blog]] |date=2 August 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 24 
+| ''[[Crash Commando]]''
+|-
+| 25 
+| ''[[Altered Beast]]'' 
+| rowspan="2"| {{dts|format=dmy|2011-09-07}}
+| rowspan="2"| {{dts|format=dmy|2011-10-26}}
+| style="text-align:center;" rowspan="2"| <ref name="EUseptember11">{{cite web|url=http://blog.eu.playstation.com/2011/09/07/heads-up-game-store-and-playstation-plus-update-7th-september-2011/ |title=‘Heads-Up’ Game Store And PlayStation Plus Update: 7th September 2011 |publisher=[[PlayStation Blog]] |date=7 September 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 26 
+| ''[[Plants vs. Zombies]]''
+|-
+| 27 
+| ''[[Dead Nation]]'' 
+| {{dts|format=dmy|2011-10-26}} 
+| {{dts|format=dmy|2011-11-02}}
+| style="text-align:center;"| <ref name="EUoctober11">{{cite web|url=http://blog.eu.playstation.com/2011/10/26/heads-up-game-store-update-26th-october-2011/ |title=‘Heads-Up’ Game Store Update 26th October 2011 |publisher=[[PlayStation Blog]] |date=26 October 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 28 
+| ''[[Hydrophobia (video game)|Hydrophobia Prophecy]]'' 
+| {{dts|format=dmy|2011-11-02}}
+| {{dts|format=dmy|2011-12-07}}
+| style="text-align:center;"| <ref name="EUnovember11">{{cite web|url=http://blog.eu.playstation.com/2011/11/02/heads-up-playstation-plus-update-2nd-november-2011/ |title=‘Heads-Up’ PlayStation Plus Update – 2nd November 2011 |publisher=[[PlayStation Blog]] |date=2 November 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 29 
+| ''[[Tomb Raider: Underworld]]'' 
+| {{dts|format=dmy|2011-12-07}} 
+| rowspan="2"| {{dts|format=dmy|2012-01-04}}
+| style="text-align:center;" rowspan="2"| <ref name="EUdecember11">{{cite web|url=http://blog.eu.playstation.com/2011/12/05/heads-up-playstation-plus-update-7th-december-2011/ |title=‘Heads-Up’ PlayStation Plus Update – 7th December 2011 |publisher=[[PlayStation Blog]] |date=5 December 2011 |accessdate=23 August 2013}}</ref>
+|-
+| 30 
+| ''[[Marvel Pinball]]'' 
+| {{dts|format=dmy|2011-12-14}}
+|-
+| 31
+| ''[[Voodoo Dice]]''
+| rowspan="2"| {{dts|format=dmy|2012-01-04}}
+| {{dts|format=dmy|2012-02-01}}
+| style="text-align:center;" rowspan="2"| <ref name="EUjanuary12">{{cite web|url=http://blog.eu.playstation.com/2012/01/04/heads-up-playstationplus-update-4th-january-2011/ |title=‘Heads-Up’ PlayStation Plus Update – 4th January 2012 |publisher=[[PlayStation Blog]] |date=31 January 2012 |accessdate=23 August 2013}}</ref>
+|-
+| 32
+| ''[[Back to the Future: The Game]]'' <small>(episodes 1–5)</small>
+| {{dts|format=dmy|2012-02-08}}
+|-
+| 33 
+| ''[[Far Cry 2]]'' 
+| rowspan="2"| {{dts|format=dmy|2012-02-08}} 
+| {{dts|format=dmy|2012-02-15}}
+| style="text-align:center;" rowspan="2"| <ref name="EUfebruary12">{{cite web|url=http://blog.eu.playstation.com/2012/01/31/heads-up-playstation-plus-update-1st-february-2012/ |title=‘Heads-Up’ PlayStation Plus Update – 1st February 2012 |publisher=[[PlayStation Blog]] |date=31 January 2012 |accessdate=23 August 2013}}</ref>
+|-
+| 34 
+| ''[[The Simpsons Arcade Game]]''
+| {{dts|format=dmy|2012-03-14}}
+|-
+| 35 
+| ''[[Sly Cooper and the Thievius Raccoonus|Sly Raccoon]]'' 
+| rowspan="2"| {{dts|format=dmy|2012-03-07}} 
+| rowspan="2"| {{dts|format=dmy|2012-04-04}}
+| style="text-align:center;" rowspan="2"| <ref name="EUmarch12">{{cite web|url=http://blog.eu.playstation.com/2012/03/05/heads-up-playstation-plus-update-7th-march-2012/ |title=‘Heads-Up’ PlayStation Plus Update – 7th March 2012 |publisher=[[PlayStation Blog]] |date=5 March 2012 |accessdate=23 August 2013}}</ref>
+|-
+| 36 
+| ''[[Trine 2]]''
+|-
+| 37 
+| ''[[Shank 2]]'' 
+| rowspan="2"| {{dts|format=dmy|2012-04-04}}
+| rowspan="2"| {{dts|format=dmy|2012-05-02}}
+| style="text-align:center;" rowspan="2"| <ref name="EUapril12">{{cite web|url=http://blog.eu.playstation.com/2012/03/29/heads-up-playstation-plus-update-4th-april-2012/ |title=‘Heads-Up’ PlayStation Plus Update – 4th April 2012 |publisher=[[PlayStation Blog]] |date=29 March 2012 |accessdate=23 August 2013}}</ref>
+|-
+| 38 
+| ''[[Shift 2: Unleashed]]''
+|-
+| 39 
+| ''[[Awesomenauts]]'' 
+| rowspan="9"| {{dts|format=dmy|2012-05-02}} 
+| {{dts|format=dmy|2012-06-06}}
+| style="text-align:center;" rowspan="9"| <ref name="EUmay12">{{cite web|url=http://blog.eu.playstation.com/2012/05/02/heads-up-playstation-plus-update-2nd-may-2012/ |title=‘Heads-Up’ PlayStation Plus Update – 2nd May 2012 |publisher=[[PlayStation Blog]] |date=2 May 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 40 
+| ''Hamsterball''
+| rowspan="9"| {{dts|format=dmy|2012-07-04}} 
+|-
+| 41 
+| ''[[Magic Orbz]]''
+|-
+| 42 
+| ''[[Mahjong Tales: Ancient Wisdom]]''
+|-
+| 43 
+| ''[[Mushroom Wars]]''
+|-
+| 44 
+| ''Ricochet HD''
+|-
+| 45 
+| ''Sky Fighter''
+|-
+| 46 
+| ''[[Smash Cars]]''
+|-
+| 47 
+| ''[[Wakeboarding HD]]''
+|-
+| 48
+| ''[[Virtua Fighter 5|Virtua Fighter 5: Final Showdown]]''
+| rowspan="10"| {{dts|format=dmy|2012-06-06}}
+| style="text-align:center;" rowspan="10"| <ref name="June12">{{cite web|url=http://blog.eu.playstation.com/2012/06/05/heads-up-playstation-plus-update-6th-june-2012/ |title=‘Heads-Up’ PlayStation Plus Update – 6th June 2012 |publisher=[[PlayStation Blog]] |date=5 June 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 49
+| ''[[Chime (video game)|Chime Super Deluxe]]''
+| rowspan="2"| {{dts|format=dmy|2012-07-18}}
+|-
+| 50
+| ''[[Warhammer 40,000: Space Marine]]''
+|-
+| 51
+| ''[[Darksiders]]''
+| rowspan="2"| {{dts|format=dmy|2012-08-16}}
+|-
+| 52
+| ''[[Renegade Ops]]''
+|-
+| 53
+| ''[[Oddworld: Stranger's Wrath|Oddworld: Stranger's Wrath HD]]''
+| rowspan="2"| {{dts|format=dmy|2012-09-12}}
+|-
+| 54
+| ''[[Outland (video game)|Outland]]''
+|-
+| 55
+| ''[[Infamous 2|InFamous 2]]''
+| rowspan="3"| {{dts|format=dmy|2013-06-12}}
+|-
+| 56
+| ''[[LittleBigPlanet 2]]''
+|-
+| 57
+| ''[[MotorStorm: Apocalypse]]''
+|-
+| 58 
+| ''[[Deus Ex: Human Revolution]]'' 
+| {{dts|format=dmy|2012-07-04}}
+| {{dts|format=dmy|2012-08-01}}
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.eu.playstation.com/2012/07/03/heads-up-playstation-plus-update-4th-july-2012/ |title=‘Heads-Up’ PlayStation Plus Update – 4th July 2012 |publisher=[[PlayStation Blog]] |date=3 July 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 59 
+| ''[[Lara Croft and the Guardian of Light]]'' 
+| rowspan="2"| {{dts|format=dmy|2012-07-18}} 
+| rowspan="2"| {{dts|format=dmy|2012-10-10}}
+| style="text-align:center;" rowspan="2"| <ref>{{cite web|url=http://blog.eu.playstation.com/2012/07/17/heads-up-playstation-plus-update-18th-july-2012/ |title=‘Heads-Up’ PlayStation Plus Update – 18th July 2012 |publisher=[[PlayStation Blog]] |date=17 July 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 60 
+| ''[[Saints Row 2]]''
+|-
+| 61 
+| ''[[Rock of Ages (video game)|Rock of Ages]]''
+| rowspan="2"| {{dts|format=dmy|2012-08-01}}
+| {{dts|format=dmy|2012-08-29}}
+| style="text-align:center;" rowspan="2"| <ref>{{cite web|url=http://blog.eu.playstation.com/2012/08/01/heads-up-playstation-plus-update-1st-august-2012/ |title=‘Heads-Up’ PlayStation Plus Update – 1st August 2012 |publisher=[[PlayStation Blog]] |date=1 August 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 62 
+| ''[[Dead Space 2]]''
+| {{dts|format=dmy|2012-09-05}}
+|-
+| 63 
+| ''[[Borderlands (video game)|Borderlands]]'' 
+| rowspan="2"| {{dts|format=dmy|2012-08-16}} 
+| rowspan="2"| {{dts|format=dmy|2012-11-07}}
+| style="text-align:center;" rowspan="3"| <ref name="16August12">{{cite web|url=http://blog.eu.playstation.com/2012/08/16/heads-up-playstation-plus-gamescom-update-16th-august-2012/ |title=‘Heads-Up’ PlayStation Plus Gamescom Update – 16th August 2012 |publisher=[[PlayStation Blog]] |date=16 August 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 64 
+| ''[[Just Cause 2]]''
+|-
+| 65 
+| ''[[Retro/Grade]]'' 
+| {{dts|format=dmy|2012-08-22}}
+| {{dts|format=dmy|2012-10-17}}
+|-
+| 66 
+| ''[[Red Dead Redemption]]'' 
+| {{dts|format=dmy|2012-09-05}}
+| {{dts|format=dmy|2012-10-03}}
+| style="text-align:center;" rowspan="4"| <ref name="September12">{{cite web|url=http://blog.eu.playstation.com/2012/09/04/heads-up-playstation-plus-update-4th-september/ |title=‘Heads-Up’ PlayStation Plus Update |publisher=[[PlayStation Blog]] |date=4 September 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 67 
+| ''[[Machinarium]]''
+| rowspan="3"| {{dts|format=dmy|2012-09-12}}
+| {{dts|format=dmy|2012-10-10}}
+|-
+| 68 
+| ''[[Double Dragon Neon]]''
+| rowspan="2"| {{dts|format=dmy|2012-12-05}}
+|-
+| 69 
+| ''[[Scott Pilgrim vs. the World: The Game]]''
+|-
+| 70 
+| ''[[Starhawk (2012 video game)|Starhawk]]'' <small>(single player)</small> 
+| {{dts|format=dmy|2012-09-26}}
+| {{dts|format=dmy|2012-10-03}}
+| style="text-align:center;"| <ref>{{cite web|url=http://blog.eu.playstation.com/2012/09/25/starhawk-storms-psn-tomorrow/ |title=Starhawk Storms PSN Tomorrow |publisher=[[PlayStation Blog]] |date=25 September 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 71 
+| ''[[Hell Yeah! Wrath of the Dead Rabbit]]'' 
+| {{dts|format=dmy|2012-10-03}}
+| {{dts|format=dmy|2012-11-07}}
+| style="text-align:center;" rowspan="3"| <ref name="October12">{{cite web|url=http://blog.eu.playstation.com/2012/10/02/playstation-plus-your-october-content/ |title=PlayStation Plus: Your October content |publisher=[[PlayStation Blog]] |date=2 October 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 72 
+| ''[[Bulletstorm]]'' 
+| rowspan="2"| {{dts|format=dmy|2012-10-10}}
+| rowspan="2"| {{dts|format=dmy|2013-01-02}}
+|-
+| 73 
+| ''[[Resident Evil 5|Resident Evil 5: Gold Edition]]''
+|-
+| 74
+| ''[[Crysis 2]]''
+| rowspan="3"| {{dts|format=dmy|2012-11-07}}
+| {{dts|format=dmy|2012-12-05}}
+| style="text-align:center;" rowspan="3"| <ref name="November12">{{cite web|url=http://blog.eu.playstation.com/2012/11/02/playstation-plus-your-november-content/ |title=PlayStation Plus: Your November content |publisher=[[PlayStation Blog]] |date=2 November 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 75
+| ''[[Cubixx HD]]''
+| rowspan="2"| {{dts|format=dmy|2013-02-06}}
+|-
+| 76
+| ''[[Ratchet & Clank: All 4 One]]''
+|-
+| 77 
+| ''[[Batman: Arkham City]]'' 
+| rowspan="3"| {{dts|format=dmy|2012-12-05}}
+| {{dts|format=dmy|2013-01-02}}
+| style="text-align:center;" rowspan="5"| <ref name="EUdecember12">{{cite web|url=http://blog.eu.playstation.com/2012/11/28/playstation-plus-your-december-content/ |title=PlayStation Plus: Your December content |publisher=[[PlayStation Blog]] |date=28 November 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 78 
+| ''[[Limbo (video game)|Limbo]]''
+| rowspan="2"| {{dts|format=dmy|2013-03-06}}
+|-
+| 79 
+| ''[[Vanquish (video game)|Vanquish]]''
+|-
+| 80 
+| ''Big Sky Infinity'' <small>(cross-buy)</small> 
+| {{dts|format=dmy|2012-12-12}}
+| {{dts|format=dmy|2012-12-21}}
+|-
+| 81 
+| ''[[Knytt Underground]]'' <small>(cross-buy)</small> 
+| {{dts|format=dmy|2012-12-21}}
+| {{dts|format=dmy|2013-01-23}}
+|-
+| 82
+| ''[[BioShock 2]]''
+| rowspan="4"| {{dts|format=dmy|2013-01-02}}
+| {{dts|format=dmy|2013-02-06}}
+| style="text-align:center;" rowspan="4"| <ref name="EUjanuary13">{{cite web|url=http://blog.eu.playstation.com/2012/12/19/playstation-plus-your-january-content/ |title=PlayStation Plus: Your January content |publisher=[[PlayStation Blog]] |date=19 December 2012 |accessdate=22 August 2013}}</ref>
+|-
+| 83
+| ''[[Guardians of Middle-earth]]''
+| rowspan="3"| {{dts|format=dmy|2013-04-03}}
+|-
+| rowspan="2"| 84
+| ''[[Mortal Kombat (2011 video game)|Mortal Kombat]]'' 
+|-
+| ''[[Gotham City Impostors]]'' <small>(Australia and Germany)</small>
+|-
+| rowspan="2"| 85
+| ''[[Sleeping Dogs (video game)|Sleeping Dogs]]''
+| rowspan="4"| {{dts|format=dmy|2013-02-06}} 
+| rowspan="2"| {{dts|format=dmy|2013-03-06}}
+| style="text-align:center;" rowspan="4"| <ref name="EUfebruary13">{{cite web|url=http://blog.eu.playstation.com/2013/01/28/playstation-plus-your-february-content/ |title=PlayStation Plus: Your February content |publisher=[[PlayStation Blog]] |date=28 January 2013 |accessdate=22 August 2013}}</ref>
+|-
+| ''[[Binary Domain]]'' <small>(Germany)</small>
+|-
+| 86
+| ''[[F1 Race Stars]]''
+| rowspan="2"| {{dts|format=dmy|2013-05-01}}
+|-
+| 87 
+| ''[[Quantum Conundrum]]''
+|-
+| 88
+| ''[[Mass Effect 3]]''
+| rowspan="3"| {{dts|format=dmy|2013-03-06}} 
+| {{dts|format=dmy|2013-04-03}}
+| style="text-align:center;" rowspan="3"| <ref name="EUmarch13">{{cite web|url=http://blog.eu.playstation.com/2013/02/22/playstation-plus-your-march-update/ |title=PlayStation Plus: Your March update |publisher=[[PlayStation Blog]] |date=22 February 2013 |accessdate=22 August 2013}}</ref>
+|-
+| 89
+| ''[[Dead or Alive 5]]''
+| rowspan="2"| {{dts|format=dmy|2013-05-29}} 
+|-
+| 90 
+| ''[[Joe Danger 2: The Movie]]''
+|-
+| 91
+| ''[[Ōkami|Ōkami HD]]''
+| rowspan="3"| {{dts|format=dmy|2013-04-03}}
+| {{dts|format=dmy|2013-05-01}}
+| style="text-align:center;" rowspan="4"| <ref name="EUapril13">{{cite web|url=http://blog.eu.playstation.com/2013/03/22/playstation-plus-your-april-update/ |title=PlayStation Plus: Your April update |publisher=[[PlayStation Blog]] |date=22 March 2013 |accessdate=22 August 2013}}</ref>
+|-
+| 92
+| ''[[The Cave (video game)|The Cave]]'' 
+| rowspan="2"| {{dts|format=dmy|2013-07-03}}
+|-
+| 93
+| ''[[The Lord of the Rings: War in the North]]''
+|-
+| 94 
+| ''[[Thomas Was Alone]]'' <small>(cross-buy)</small> 
+| {{dts|format=dmy|2013-04-24}}
+| {{dts|format=dmy|2013-05-22}}
+|-
+| 95
+| ''[[Hitman: Absolution]]''
+| rowspan="3"| {{dts|format=dmy|2013-05-01}}
+| {{dts|format=dmy|2013-05-29}}
+| style="text-align:center;" rowspan="3"| <ref name="EUmay13">{{cite web|url=http://blog.eu.playstation.com/2013/04/17/playstation-plus-your-may-update/ |title=PlayStation Plus: Your May update |publisher=[[PlayStation Blog]] |date=17 April 2013 |accessdate=22 August 2013}}</ref>
+|-
+| 96
+| ''[[Catherine (video game)|Catherine]]'' 
+| rowspan="2"| {{dts|format=dmy|2013-07-31}}
+|-
+| 97 
+| ''[[Malicious (video game)|Malicious]]''
+|-
+| 98
+| ''[[Kingdoms of Amalur: Reckoning]]''
+| rowspan="3"| {{dts|format=dmy|2013-05-29}} 
+| {{dts|format=dmy|2013-07-03}}
+| style="text-align:center;" rowspan="3"| <ref name="EUjune13">{{cite web|url=http://blog.eu.playstation.com/2013/05/15/playstation-plus-your-june-update/ |title=PlayStation Plus: Your June update |publisher=[[PlayStation Blog]] |date=15 May 2013 |accessdate=22 August 2013}}</ref>
+|-
+| 99
+| ''[[Demon's Souls]]''
+| rowspan="2"| {{dts|format=dmy|2013-08-28}}
+|-
+| 100
+| ''[[The Ico & Shadow of the Colossus Collection|Ico & Shadow of the Colossus]]''
+|-
+| 101 
+| ''[[LittleBigPlanet Karting]]'' 
+| rowspan="3"| {{dts|format=dmy|2013-06-12}}
+| rowspan="3"| {{dts|format=dmy|2014-06-11}}
+| style="text-align:center;" rowspan="3"| <ref name="EUjune13-2">{{cite web|url=http://blog.eu.playstation.com/2013/06/07/playstation-plus-more-new-games-coming-your-way/ |title=PlayStation Plus: More new games coming your way! |publisher=[[PlayStation Blog]] |date=7 June 2013 |accessdate=22 August 2013}}</ref>
+|-
+| 102 
+| ''[[Uncharted 3: Drake's Deception]]'' <small>(single player)</small>
+|-
+| 103 
+| ''[[XCOM: Enemy Unknown]]''
+|-
+| 104 
+| ''[[Battlefield 3]]'' 
+| rowspan="3"| {{dts|format=dmy|2013-07-03}} 
+| {{dts|format=dmy|2013-07-31}}
+| style="text-align:center;" rowspan="3"| <ref name="EUjuly13">{{cite web|url=http://blog.eu.playstation.com/2013/06/19/playstation-plus-your-july-update/ |title=PlayStation Plus: Your July update |publisher=[[PlayStation Blog]] |date=19 June 2013 |accessdate=22 August 2013}}</ref>
+|-
+| 105 
+| ''[[Payday: The Heist]]''
+| rowspan="2"| {{dts|format=dmy|2013-09-25}}
+|-
+| 106 
+| ''[[Saints Row: The Third]]''
+|-
+| 107
+| ''[[Need for Speed: Most Wanted (2012 video game)|Need for Speed: Most Wanted]]''
+| rowspan="5"| {{dts|format=dmy|2013-07-31}}
+| rowspan="2"| {{dts|format=dmy|2013-08-28}}
+| style="text-align:center;" rowspan="5"| <ref name="EUaugust13">{{cite web|url=http://blog.eu.playstation.com/2013/07/17/playstation-plus-in-august-need-for-speed-most-wanted-mafia-ii-more/ |title=PlayStation Plus in August: Need For Speed: Most Wanted, Mafia II, more! |publisher=[[PlayStation Blog]] |date=17 July 2013 |accessdate=22 August 2013}}</ref>
+|-
+| 108
+| ''[[When Vikings Attack!]]'' <small>(cross-buy)</small>
+|-
+| 109 
+| ''[[Mafia II]]'' 
+| rowspan="3"| {{dts|format=dmy|2013-10-23}}
+|-
+| rowspan="2"| 110 
+| ''[[Spec Ops: The Line]]''
+|-
+| ''[[NBA 2K13]]'' <small>(UAE)</small>
+|-
+| 111 
+| ''[[Assassin's Creed III]]'' 
+| rowspan="3"| {{dts|format=dmy|2013-08-28}}
+| {{dts|format=dmy|2013-09-25}}
+| style="text-align:center;" rowspan="3"| <ref name="EUseptember13">{{cite web|url=http://blog.eu.playstation.com/2013/08/22/playstation-plus-in-september-assassins-creed-iii-jak-daxter-trilogy-more/ |title=PlayStation Plus in September: Assassin’s Creed III, Jak & Daxter Trilogy, more |publisher=[[PlayStation Blog]] |date=22 August 2013 |accessdate=22 August 2013}}</ref>
+|-
+| 112 
+| ''[[Jak and Daxter Collection|The Jak and Daxter Trilogy]]'' <small>(cross-buy)</small>
+| rowspan="2"| {{dts|format=dmy|2013-11-27}}
+|-
+| 113 
+| ''[[Stealth Bastard Deluxe|Stealth Inc: A Clone in the Dark]]'' <small>(cross-buy)</small>
+|-
+| 114
+| ''[[Far Cry 3]]''
+| rowspan="3"| {{dts|format=dmy|2013-09-25}} 
+| {{dts|format=dmy|2013-10-23}}
+| style="text-align:center;" rowspan="3"| <ref name="EUoctober13">{{cite web|url=http://blog.eu.playstation.com/2013/09/17/playstation-plus-in-october-far-cry-3-street-fighter-x-tekken-lead-the-way/ |title=PlayStation Plus in October: Far Cry 3, Street Fighter X Tekken lead the way |publisher=[[PlayStation Blog]] |date=17 September 2013 |accessdate=19 September 2013}}</ref>
+|-
+| 115
+| ''[[Dragon's Dogma|Dragon's Dogma: Dark Arisen]]'' 
+| rowspan="2"| {{dts|format=dmy|2013-12-24}}
+|-
+| 116 
+| ''[[Giana Sisters: Twisted Dreams]]''
+|-
+| 117 
+| ''[[Metal Gear Rising: Revengeance]]'' 
+| rowspan="3"| {{dts|format=dmy|2013-10-23}} 
+| rowspan="2"| {{dts|format=dmy|2013-11-27}}
+| style="text-align:center;" rowspan="3"| <ref name="EUnovember13">{{cite web|url=http://blog.eu.playstation.com/2013/10/11/playstation-plus-in-november-metal-gear-rising-remember-me-more/ |title=PlayStation Plus in November: Metal Gear Rising, Remember Me, more |publisher=[[PlayStation Blog]] |date=11 October 2013 |accessdate=11 October 2013}}</ref>
+|-
+| 118 
+| ''[[MotorStorm: RC|MotorStorm RC]]'' <small>(cross-buy)</small>
+|-
+| 119 
+| ''[[Remember Me (video game)|Remember Me]]''
+| {{dts|format=dmy|2014-01-29}}
+|-
+| 120
+| ''[[Grid 2]]''
+| rowspan="2"| {{dts|format=dmy|2013-11-27}}
+| {{dts|format=dmy|2013-12-24}}
+| style="text-align:center;" rowspan="2"| <ref name="EUdecember13">{{cite web|url=http://blog.eu.playstation.com/2013/11/13/playstation-plus-in-december-resogun-guacamelee-grid-2-more/ |title=PlayStation Plus in December: Resogun, Guacamelee, GRID 2, more |publisher=[[PlayStation Blog]] |date=13 November 2013 |accessdate=13 November 2013}}</ref>
+|-
+| 121
+| ''[[Guacamelee!]]'' <small>(cross-buy)</small>
+| {{dts|format=dmy|2014-03-05}}
+|-
+| 122
+| ''[[DmC: Devil May Cry]]''
+| rowspan="2"| {{dts|format=dmy|2013-12-24}}
+| {{dts|format=dmy|2014-01-29}}
+| style="text-align:center;" rowspan="2"| <ref name="January14">{{cite web|url=http://blog.eu.playstation.com/2013/12/13/playstation-plus-in-january-dmc-soul-sacrifice-borderlands-2-more/ |title=PlayStation Plus in January: DmC, Soul Sacrifice, Borderlands 2, more |publisher=[[PlayStation Blog]] |date=13 December 2013 |accessdate=13 December 2013}}</ref>
+|-
+| 123
+| ''[[Borderlands 2]]''
+| {{dts|format=dmy|2014-04-02}}
+|-
+| 124
+| ''[[Metro: Last Light]]''
+| rowspan="2"| {{dts|format=dmy|2014-01-29}}
+| {{dts|format=dmy|2014-03-05}}
+| style="text-align:center;" rowspan="2"| <ref name="February14">{{cite web|url=http://blog.eu.playstation.com/2014/01/22/playstation-plus-in-february-bioshock-infinite-metro-last-light-outlast-more/ |title=PlayStation Plus in February: BioShock Infinite, Metro Last Light, Outlast, more |publisher=[[PlayStation Blog]] |date=22 January 2014 |accessdate=22 January 2014}}</ref>
+|-
+| 125
+| ''[[BioShock Infinite]]''
+| {{dts|format=dmy|2014-04-30}}
+|-
+| 126
+| ''[[Tomb Raider (2013 video game)|Tomb Raider]]''
+| rowspan="2"| {{dts|format=dmy|2014-03-05}}
+| {{dts|format=dmy|2014-04-02}}
+| style="text-align:center;" rowspan="2"| <ref name="March14">{{cite web|url=http://blog.eu.playstation.com/2014/02/27/playstation-plus-march-tomb-raider-dead-nation-apocalypse-edition/ |title=PlayStation Plus in March: Tomb Raider, Dead Nation: Apocalypse Edition, more |publisher=[[PlayStation Blog]] |date=27 February 2014 |accessdate=27 February 2014}}</ref>
+|-
+| 127
+| ''[[Brothers: A Tale of Two Sons]]''
+| {{dts|format=dmy|2014-06-04}}
+|-
+| 128
+| ''[[Hotline Miami]]'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2014-04-02}}
+| rowspan="2"| {{dts|format=dmy|2014-04-30}}
+| style="text-align:center;" rowspan="3"| <ref name="April14">{{cite web|url=http://blog.eu.playstation.com/2014/03/28/playstation-plus-april-pro-evo-2014-mercenary-kings-sly-cooper/ |title=PlayStation Plus in April: Pro Evo 2014, Mercenary Kings, Sly Cooper, more |publisher=[[PlayStation Blog]] |date=28 March 2014 |accessdate=29 March 2014}}</ref>
+|-
+| 129
+| ''[[Pro Evolution Soccer 2014]]''
+|-
+| 130
+| ''[[Sly Cooper: Thieves in Time]]'' <small>(cross-buy)</small>
+| {{dts|format=dmy|2014-07-02}}
+|-
+| 131
+| ''[[Payday 2]]''
+| rowspan="2"| {{dts|format=dmy|2014-04-30}}
+| {{dts|format=dmy|2014-06-04}}
+| style="text-align:center;" rowspan="2"| <ref name="May14">{{cite web|url=http://blog.eu.playstation.com/2014/04/23/coming-ps-plus-may-puppeteer-payday-2-muramasa/ |title=Coming to PS Plus in May: Puppeteer, Payday 2, Muramasa, more |publisher=[[PlayStation Blog]] |date=24 April 2014 |accessdate=24 April 2014}}</ref>
+|-
+| 132
+| ''[[Puppeteer (video game)|Puppeteer]]''
+| rowspan="3"| {{dts|format=dmy|2014-07-02}}
+|-
+| 133
+| ''[[Lone Survivor (video game)|Lone Survivor: The Director's Cut]]'' <small>(cross-buy)</small>
+| rowspan="2"| {{dts|format=dmy|2014-06-04}}
+| rowspan="2" style="text-align:center;"| <ref name="June14">{{cite web|url=http://blog.eu.playstation.com/2014/05/29/playstation-plus-june-nba-2k14-dragons-crown-pixeljunk-2/ |title=PlayStation Plus in June: NBA 2K14, Trine 2, Dragon’s Crown, Pixeljunk, more |publisher=[[PlayStation Blog]] |date=29 May 2014 |accessdate=29 May 2014}}</ref>
+|-
+| 134
+| ''[[NBA 2K14]]''
+|-
+| 135
+| ''[[Dead Space 3]]''
+| rowspan="3"| {{dts|format=dmy|2014-07-02}}
+| rowspan="3"| {{dts|format=dmy|2014-08-06}}
+| rowspan="3" style="text-align:center;"| <ref name="July14">{{cite web|url=http://blog.eu.playstation.com/2014/06/25/playstation-plus-july-strider-dead-space-3-towerfall-ascension/ |title=PlayStation Plus in July: Strider, Dead Space 3, Towerfall Ascension, more |publisher=[[PlayStation Blog]] |date=25 June 2014 |accessdate=25 June 2014}}</ref>
+|-
+| 136
+| ''[[Doki-Doki Universe]]'' <small>(cross-buy)</small>
+|-
+| 137
+| ''[[Vessel (video game)|Vessel]]''
+|-
+| 138
+| ''[[Crysis 3]]''
+| rowspan="3"| {{dts|format=dmy|2014-08-06}}
+| rowspan="3"| {{dts|format=dmy|2014-09-03}}
+| rowspan="3" style="text-align:center;"| <ref name="August14">{{cite web|url=http://blog.eu.playstation.com/2014/07/30/new-ps-plus-august-road-taken-crysis-3-fez/ |title=New on PS Plus in August: Road Not Taken, Crysis 3, FEZ, more |publisher=[[PlayStation Blog]] |date=30 July 2014 |accessdate=30 July 2014}}</ref>
+|-
+| 139
+| ''[[Fez (video game)|Fez]]'' <small>(cross-buy)</small>
+|-
+| 140
+| ''[[Proteus (video game)|Proteus]]'' <small>(cross-buy)</small>
+|-
+| 141
+| ''[[Hoard (video game)|Hoard]]''
+| rowspan="3"| {{dts|format=dmy|2014-09-03}}
+| rowspan="3"| {{dts|format=dmy|2014-10-08}}
+| rowspan="3" style="text-align:center;"| <ref name="September14">{{cite web|url=http://blog.eu.playstation.com/2014/08/27/ps-plus-september-velocity-2x-sportsfriends-joe-danger-ps-vita/ |title=PS Plus in September: Velocity 2X, Sportsfriends, Joe Danger PS Vita, more |publisher=[[PlayStation Blog]] |date=27 August 2014 |accessdate=28 August 2014}}</ref>
+|-
+| 142
+| ''[[PlayStation All-Stars Battle Royale]]'' <small>(cross-buy)</small>
+|-
+| 143
+| ''[[Sportsfriends]]'' <small>(cross-buy)</small>
+|-
+| 144
+| ''[[Batman: Arkham Asylum]]''
+| rowspan="4"| {{dts|format=dmy|2014-10-08}}
+| rowspan="4"| {{dts|format=dmy|2014-11-05}}
+| rowspan="4" style="text-align:center;"| <ref name="October14">{{cite web|url=http://blog.eu.playstation.com/2014/10/01/playstation-plus-october-driveclub-spelunky-dust-elysian-tale/ |title=PlayStation Plus in October: DRIVECLUB, Spelunky, Dust: An Elysian Tail, more |publisher=[[PlayStation Blog]] |date=1 October 2014 |accessdate=1 October 2014}}</ref>
+|-
+| 145
+| ''[[Dungeons & Dragons: Chronicles of Mystara]]''
+|-
+| 146
+| ''[[Rainbow Moon]]'' <small>(cross-buy)</small>
+|-
+| 147
+| ''[[Spelunky]]'' <small>(cross-buy)</small>
+|-
+| 148
+| ''[[Frozen Synapse|Frozen Synapse Prime]]''
+| rowspan="2"| {{dts|format=dmy|2014-11-05}}
+| rowspan="2"| {{dts|format=dmy|2014-12-03}}
+| rowspan="2" style="text-align:center;"| <ref name="November14">{{cite web|url=http://blog.eu.playstation.com/2014/11/04/playstation-plus-november-content-update-little-something-extra/ |title=Find out what's coming to PlayStation Plus in November, and beyond… |publisher=[[PlayStation Blog]] |date=4 November 2014 |accessdate=6 November 2014}}</ref>
+|-
+| 149
+| ''[[Luftrausers]]'' <small>(cross-buy)</small>
+|-
+| 150
+| ''[[Deadly Premonition|Deadly Premonition: The Director's Cut]]''
+| rowspan="3"| {{dts|format=dmy|2014-12-03}}
+| rowspan="3"| {{dts|format=dmy|2015-01-07}}
+| rowspan="3" style="text-align:center;"| <ref name="December14">{{cite web|url=http://blog.eu.playstation.com/2014/11/26/playstation-plus-december-injustice-gods-among-us-hitman-deadly-premonition/ |title=PlayStation Plus in December: Injustice Gods Among Us, Hitman, Deadly Premonition, more |publisher=[[PlayStation Blog]] |date=26 November 2014 |accessdate=2 December 2014}}</ref>
+|-
+| 151
+| ''[[Hitman HD Trilogy]]''
+|-
+| 152
+| ''Titan Attacks'' <small>(cross-buy)</small>
+|-
+| 153
+| ''[[DuckTales: Remastered]]''
+| rowspan="4"| {{dts|format=dmy|2015-01-07}}
+| rowspan="4"| {{dts|format=dmy|2015-02-04}}
+| rowspan="4" style="text-align:center;"| <ref name="January15">{{cite web|url=http://blog.eu.playstation.com/2014/12/31/ps-plus-january-infamous-first-light-swapper-woah-dave/ |title=PS Plus in January: inFAMOUS First Light, The Swapper, Woah Dave!, more |publisher=[[PlayStation Blog]] |date=31 December 2014 |accessdate=1 January 2015}}</ref>
+|-
+| 154
+| ''[[Duke Nukem 3D|Duke Nukem 3D: Megaton Edition]]'' <small>(cross-buy)</small>
+|-
+| 155
+| ''[[Prototype 2]]''
+|-
+| 156
+| ''[[The Swapper]]'' <small>(cross-buy)</small>
+|-
+| 157
+| ''[[Rogue Legacy]]'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2015-02-04}}
+| rowspan="3"| {{dts|format=dmy|2015-03-04}}
+| rowspan="3" style="text-align:center;"| <ref name="February15">{{cite web|url=http://blog.eu.playstation.com/2015/01/29/playstation-plus-february-transistor-yakuza-4-thief-rogue-legacy/ |title=PlayStation Plus in February: Transistor, Yakuza 4, Thief, Rogue Legacy, more |publisher=[[PlayStation Blog]] |date=29 January 2015 |accessdate=29 January 2015}}</ref>
+|-
+| 158
+| ''[[Thief (video game)|Thief]]''
+|-
+| 159
+| ''[[Yakuza 4]]''
+|-
+| 160
+| ''[[CounterSpy (video game)|CounterSpy]]'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2015-03-04}}
+| rowspan="3"| {{dts|format=dmy|2015-04-08}}
+| rowspan="3" style="text-align:center;"| <ref name="March15">{{cite web|url=http://blog.eu.playstation.com/2015/03/03/playstation-plus-your-march-content-update/ |title=PlayStation Plus: Your March Content Update |publisher=[[PlayStation Blog]] |date=3 March 2015 |accessdate=3 March 2015}}</ref>
+|-
+| 161
+| ''[[Papo & Yo]]''
+|-
+| 162
+| ''[[Sherlock Holmes: Crimes & Punishments]]''
+|-
+| 163
+| ''Aaru's Awakening'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2015-04-08}}
+| rowspan="3"| {{dts|format=dmy|2015-05-06}}
+| rowspan="3" style="text-align:center;"| <ref name="April15">{{cite web|url=http://blog.eu.playstation.com/2015/03/31/playstation-plus-april-dishonored-killzone-mercenary-never-alone/ |title=PlayStation Plus in April: Dishonored, Killzone Mercenary, Never Alone, more |publisher=[[PlayStation Blog]] |date=31 March 2015 |accessdate=1 April 2015}}</ref>
+|-
+| 164
+| ''[[Dishonored]]''
+|-
+| 165
+| ''[[Tower of Guns]]'' <small>(cross-buy)</small>
+|-
+| 166
+| ''[[The Unfinished Swan]]'' <small>(cross-buy)</small>
+| rowspan="3"| {{dts|format=dmy|2015-05-06}}
+| rowspan="3"| {{dts|format=dmy|2015-06-03}}
+| rowspan="3" style="text-align:center;"| <ref name="May15">{{cite web|url=http://blog.eu.playstation.com/2015/04/29/playstation-plus-may-ether-one-hohokum-murasaki-baby/ |title=PlayStation Plus in May: Ether One, Hohokum, Murasaki Baby, more |publisher=[[PlayStation Blog]] |date=29 April 2015 |accessdate=2 May 2015}}</ref>
+|-
+| 167
+| ''[[Race the Sun (video game)|Race the Sun]]'' <small>(cross-buy)</small>
+|-
+| 168
+| ''[[Hohokum]]'' <small>(cross-buy)</small>
+|-
+| 169
+| ''[[Call of Juarez: Gunslinger]]''
+| rowspan="2"| {{dts|format=dmy|2015-06-03}}
+| rowspan="2"| {{dts|format=dmy|2015-07-07}}
+| rowspan="2" style="text-align:center;"| <ref name="May27">{{cite web|url=http://blog.eu.playstation.com/2015/05/27/metal-gear-solid-ground-zeroes-leads-junes-playstation-plus-line-up/ |title=Metal Gear Solid: Ground Zeroes leads June’s PlayStation Plus line-up |publisher=[[PlayStation Blog]] |date=27 May 2015 |accessdate=2 May 2015}}</ref>
+|-
+| 170
+| ''[[Cloudberry Kingdom]]''
+|-
+| 171
+| ''[[Rain (video game)|Rain]]''
+| rowspan="2"| {{dts|format=dmy|2015-07-07}}
+| rowspan="2"| {{dts|format=dmy|2015-08-04}}
+| rowspan="2" style="text-align:center;"| <ref name="July15">{{cite web|url=http://blog.eu.playstation.com/2015/07/01/playstation-plus-in-july-rocket-league-geometry-wars-3-entwined-more/ |title=PlayStation Plus in July: Rocket League, Geometry Wars 3, Entwined, more |publisher=[[PlayStation Blog]] |date=1 July 2015 |accessdate=1 July 2015}}</ref>
+|-
+| 172
+| ''Mousecraft'' <small>(cross-buy)</small>
